@@ -31,3 +31,5 @@ npm run build
 ---
 
 This project is done with 8 hours of working time. Please find the enclosed screenshot in the screenshot folder.
+
+For live version of this app please go to [here](https://incandescent-gumption-71d742.netlify.app/)
